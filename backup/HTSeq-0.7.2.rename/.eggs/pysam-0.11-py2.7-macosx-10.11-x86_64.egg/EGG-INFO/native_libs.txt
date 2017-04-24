@@ -1,0 +1,13 @@
+pysam/libcalignedsegment.so
+pysam/libcalignmentfile.so
+pysam/libcbcf.so
+pysam/libcbcftools.so
+pysam/libcbgzf.so
+pysam/libcfaidx.so
+pysam/libchtslib.so
+pysam/libcsamfile.so
+pysam/libcsamtools.so
+pysam/libctabix.so
+pysam/libctabixproxies.so
+pysam/libcutils.so
+pysam/libcvcf.so
